@@ -72,7 +72,7 @@ This project analyzes 17 IPL seasons using Tableau to provide insights into:
 
 ## 👤 Author
 
-**Rushikesh Sultane**
+**Sahil Dange**
 
 GitHub:
-https://github.com/rushi-7900
+https://github.com/Sahil2321
